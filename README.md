@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durritosxd" alt="durritosxd" /></a> </p>
 
-- 🔭 I’m currently working on **StudyPanion**
+- 🔭 I’m currently working on **LegalPanion**
 
 - 🌱 I’m currently learning **RAG,LLM fine tuning,ML frameworks**
 
